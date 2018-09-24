@@ -1,6 +1,7 @@
 # Practical RxJava Workshop
 # README
 This project is the skeleton (and solution) for the `PracticalRxjava` workshop.
+Extensions Rx and Reactive Manifesto
 
 The aim of the workshop is to discover [`RxJava`](http://reactivex.io) through a practical example, a legacy application that we want to gradually migrate to a fully **asynchronous** and **reactive** app.
 
